@@ -1,9 +1,12 @@
 # MannequinAI (REPLICATED)
-Mannequin NPC AI System for Horror Games
+Mannequin NPC AI System for Horror Games</br></br>
+
+<h1>Purchase Link</h1>
+Get the Mannequin NPC AI System here:</br>
 
 Bring spine-chilling experiences to your players with this advanced AI system, inspired by the terrifying behavior of Mannequin NPCs. Perfectly designed for horror games, this AI ensures an immersive and heart-pounding gameplay experience.
 
-Key Features:
+<h1>Key Features</h1>
 Realistic Enemy Behavior: The AI replicates the iconic mechanic where Mannequin NPCs stop moving when observed and pursue the player when unobserved, creating constant tension.
 Strategic Stalking Mechanics: Players must carefully manage their line of sight to avoid being caught off-guard.
 Multiplayer-Ready Design: The AI is optimized for multiplayer environments, ensuring synchronized behavior across all players.
@@ -11,7 +14,7 @@ Optimized for Performance: Seamlessly integrates into Unreal Engine projects wit
 Customizable and Modular: Easily adapt the AI's behavior to fit the unique needs of your game.
 This AI system faithfully recreates the chilling behavior of Mannequin NPCs, making it an essential tool for developers aiming to craft unforgettable experiences in both single-player and multiplayer horror games.
 
-How to Use:
+<h1>How to Use</h1>
 Follow these steps to seamlessly integrate the Mannequin NPC AI System into your Unreal Engine project:
 
 1. Add AI Perception and AC_Mannequin components to your character's blueprint.</br>
@@ -23,6 +26,6 @@ Follow these steps to seamlessly integrate the Mannequin NPC AI System into your
 4.Inside the AI_Mannequin class, use the Get All Actors of Class node and replace it with your own character class.</br>
 ![Screenshot_24](https://github.com/user-attachments/assets/6ff0eb5b-6104-4005-b767-78e6e7563b21)
 
-Follow & Contact:
-Follow me on Instagram for more updates: tos.creative.studio
-For inquiries or issues, feel free to contact me at: korkutdilek@outlook.com
+<h1>Follow & Contact</h1>
+Follow me on Instagram for more updates: tos.creative.studio</br></br>
+For inquiries or issues, feel free to contact me at: korkutdilek@outlook.com</br>
