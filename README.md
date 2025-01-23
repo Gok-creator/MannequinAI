@@ -19,8 +19,10 @@ Follow these steps to seamlessly integrate the Mannequin NPC AI System into your
 
 1. Add AI Perception and AC_Mannequin components to your character's blueprint.</br>
 ![Screenshot_20](https://github.com/user-attachments/assets/46217f84-59d8-42ee-821b-892cc42fff51)</br>
-2. Call the On Target Perception Updated function to detect whether the player can see the AI or not, triggering the AI's response accordingly.</br>
+2. Call the On Target Perception Updated function to detect whether the player can see the AI or not, triggering the AI's response accordingly. In the AI Perception settings of your character, adjust the Peripheral Vision Half Angle to 45 degrees to match the player's camera angle.</br>
 ![Screenshot_21](https://github.com/user-attachments/assets/c7ff846b-bc19-49c2-b7e0-52b04cb31c8f)</br>
+![Screenshot_26](https://github.com/user-attachments/assets/a61ae6cf-9ae0-465f-bf6b-6f02f5e2190d)</br>
+
 3. Call the Is See Server event inside the AC_Mannequin component to handle the server-side check for visual perception of the AI.</br>
 ![Screenshot_22](https://github.com/user-attachments/assets/65f42f9d-702f-44e5-a90f-53906fce73ca)</br>
 4.Inside the AI_Mannequin class, use the Get All Actors of Class node and replace it with your own character class.</br>
