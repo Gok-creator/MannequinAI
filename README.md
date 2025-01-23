@@ -23,3 +23,6 @@ Follow these steps to seamlessly integrate the Mannequin NPC AI System into your
 4.Inside the AI_Mannequin class, use the Get All Actors of Class node and replace it with your own character class.</br>
 ![Screenshot_24](https://github.com/user-attachments/assets/6ff0eb5b-6104-4005-b767-78e6e7563b21)
 
+Follow & Contact:
+Follow me on Instagram for more updates: tos.creative.studio
+For inquiries or issues, feel free to contact me at: korkutdilek@outlook.com
