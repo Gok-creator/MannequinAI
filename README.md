@@ -17,6 +17,10 @@ This AI system faithfully recreates the chilling behavior of Mannequin NPCs, mak
 <h1>How to Use</h1>
 Follow these steps to seamlessly integrate the Mannequin NPC AI System into your Unreal Engine project:
 
+</br>
+
+Note: You need to add an actor tag to your character. The tag should be "player." You also need to check the "Detect Enemies," "Detect Neutrals," and "Detect Friendlies" boxes in your character's AI Perception settings.</br>
+
 1. Add AI Perception and AC_Mannequin components to your character's blueprint.</br>
 ![Screenshot_20](https://github.com/user-attachments/assets/46217f84-59d8-42ee-821b-892cc42fff51)</br>
 2. Call the On Target Perception Updated function to detect whether the player can see the AI or not, triggering the AI's response accordingly. In the AI Perception settings of your character, adjust the Peripheral Vision Half Angle to 45 degrees to match the player's camera angle.</br>
