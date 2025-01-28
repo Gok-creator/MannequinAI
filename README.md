@@ -29,7 +29,7 @@ Note: You need to add an actor tag to your character. The tag should be "player.
 
 3. Call the Is See Server event inside the AC_Mannequin component to handle the server-side check for visual perception of the AI.</br>
 ![Screenshot_22](https://github.com/user-attachments/assets/65f42f9d-702f-44e5-a90f-53906fce73ca)</br>
-4.Inside the AI_Mannequin class, use the Get All Actors of Class node and replace it with your own character class.</br>
+4.Inside the AI_Mannequin class, use the Get All Actors of Class node and replace it with your own character class. "Players" reference errors will be observed. The solution for this is to refresh the variables and reconnect them in some parts. If you have problems, definitely contact me via e-mail. I will send a solution video. I even started video. :) </br>
 ![Screenshot_24](https://github.com/user-attachments/assets/6ff0eb5b-6104-4005-b767-78e6e7563b21)
 
 <h1>Follow & Contact</h1>
