@@ -19,7 +19,7 @@ Follow these steps to seamlessly integrate the Mannequin NPC AI System into your
 
 </br>
 
-Note: You need to add an actor tag to your character. The tag should be "player." You also need to check the "Detect Enemies," "Detect Neutrals," and "Detect Friendlies" boxes in your character's AI Perception settings.</br>
+Note: You need to add an actor tag to your character. The tag should be "player." You also need to check the "Detect Enemies," "Detect Neutrals," and "Detect Friendlies" boxes in your character's AI Perception settings.You need to add "navmesh bound value" to the map you are using.</br>
 
 1. Add AI Perception and AC_Mannequin components to your character's blueprint.</br>
 ![Screenshot_20](https://github.com/user-attachments/assets/46217f84-59d8-42ee-821b-892cc42fff51)</br>
